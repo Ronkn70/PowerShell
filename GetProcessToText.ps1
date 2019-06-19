@@ -1,0 +1,1 @@
+﻿Get-Process | Out-File $env:ProgramData\ProcessFiles.txt
